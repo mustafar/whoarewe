@@ -7,7 +7,7 @@ Install the module with: `npm install whoarewe`
 
 ```bash
 $ whoarewe
-You are Foo, King of Hearts.
+You are Foo, Chancellor of Hearts.
 ```
 ## License
 Copyright (c) 2014 Mustafa Rizvi  

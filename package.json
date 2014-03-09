@@ -32,5 +32,9 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.2"
   },
-  "keywords": []
+  "keywords": [
+    "whoami",
+    "who am i",
+    "user"
+  ]
 }
