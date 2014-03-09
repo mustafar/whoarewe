@@ -2,10 +2,8 @@
 
 whoami alternative, only (slightly) better
 
-## Getting Started
-Install the module with: `npm install whoarewe`
-
 ```bash
+$ npm install whoarewe
 $ whoarewe
 You are Foo, Chancellor of Hearts.
 ```
