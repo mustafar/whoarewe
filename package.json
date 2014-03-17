@@ -1,7 +1,7 @@
 {
   "name": "whoarewe",
   "description": "whoami alternative, only (slightly) better",
-  "version": "0.1.4",
+  "version": "1.0.1",
   "homepage": "https://github.com/mustafar/whoarewe",
   "author": {
     "name": "Mustafa Rizvi"
@@ -25,6 +25,9 @@
   },
   "engines": {
     "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "figlet": ">=1.0.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.4",
